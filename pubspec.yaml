@@ -35,6 +35,7 @@ dependencies:
   hijri: ^3.0.1
   intl: ^0.20.2
   dio: ^5.9.2
+  audioplayers: ^6.7.1
 dev_dependencies:
   flutter_lints: ^6.0.0
   flutter_test:

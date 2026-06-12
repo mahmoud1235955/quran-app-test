@@ -74,7 +74,7 @@ class HomeScreen extends StatelessWidget {
                                 context,
                                 MaterialPageRoute(
                                   builder: (context) =>
-                                      SurahInfoScreen(index: index),
+                                      SurahInfoScreen(index: index + 1),
                                 ),
                               );
                             },
